@@ -1,4 +1,4 @@
-Git-muhennos
+SVN-muhennos
 
 ripaus ep‰toivoa
 h‰mmennet‰‰n liikaa
