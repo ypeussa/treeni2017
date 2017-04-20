@@ -1,4 +1,4 @@
-Versionhallinta-muhennos
+Versionhallinta mutta ei SVN-muhennos
 
 ripaus ep‰toivoa
 h‰mmennet‰‰n liikaa
